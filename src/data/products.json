@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1, "name": "iPhone 16 Pro", "brand": "Apple", "category": "Mobiles", "price": 999, "oldPrice": 1099, "rating": 4.9, "reviews": 2841, "badge": "BEST SELLER", "color": "Titanium", "description": "A18 Pro chip. Camera Control. 4K 120 fps Dolby Vision. A powerful creative studio, in your pocket.", "specs": ["6.3″ Super Retina XDR", "A18 Pro chip", "48MP Fusion camera", "Up to 27 hours video"], "image": "https://i.pinimg.com/736x/f4/20/cc/f420cc680c171501f569cca4a078bfc4.jpg"
+  },
+  {
+    "id": 2, "name": "Galaxy S25 Ultra", "brand": "Samsung", "category": "Mobiles", "price": 1299, "oldPrice": 1419, "rating": 4.8, "reviews": 1902, "badge": "NEW ARRIVAL", "color": "Titanium Gray", "description": "Meet your AI companion. Pro-level cameras and an expansive display wrapped in a refined titanium frame.", "specs": ["6.9″ Dynamic AMOLED 2X", "Snapdragon 8 Elite", "200MP camera", "Built-in S Pen"], "image": "https://i.pinimg.com/736x/16/b0/b8/16b0b8f5ee33564808cf2b4d3f587ba9.jpg"
+  },
+  {
+    "id": 3, "name": "MacBook Pro 14″", "brand": "Apple", "category": "Laptops", "price": 1599, "oldPrice": 1799, "rating": 4.9, "reviews": 1620, "badge": "−11% TODAY", "color": "Space Black", "description": "Supercharged by M4. For astonishing performance, stunning graphics, and all-day battery life.", "specs": ["14.2″ Liquid Retina XDR", "Apple M4 chip", "16GB unified memory", "Up to 24 hours battery"], "image": "https://i.pinimg.com/736x/cf/59/ce/cf59ce27b1b1a30045e5b2919edd4032.jpg"
+  },
+  {
+    "id": 4, "name": "XPS 14", "brand": "Dell", "category": "Laptops", "price": 1399, "oldPrice": 1599, "rating": 4.7, "reviews": 928, "badge": "STAFF PICK", "color": "Graphite", "description": "A beautifully crafted laptop with powerful performance, an immersive display, and an ultra-portable design.", "specs": ["14.5″ OLED touchscreen", "Intel Core Ultra 7", "32GB LPDDR5x", "1TB SSD"], "image": "https://i.pinimg.com/736x/ad/f4/88/adf4889bc2f53cdd6dfe6767587c4caa.jpg"
+  },
+  {
+    "id": 5, "name": "WH-1000XM5", "brand": "Sony", "category": "Headphones", "price": 349, "oldPrice": 399, "rating": 4.8, "reviews": 3401, "badge": "−13% TODAY", "color": "Midnight Black", "description": "Your world. Nothing else. Industry-leading noise cancellation meets exceptional audio clarity.", "specs": ["Industry-leading ANC", "30-hour battery", "Multipoint connection", "Speak-to-Chat"], "image": "https://i.pinimg.com/736x/e7/11/64/e711640e67f77ac555a8c57627c4db3d.jpg"
+  },
+  {
+    "id": 6, "name": "AirPods Max", "brand": "Apple", "category": "Headphones", "price": 549, "oldPrice": 599, "rating": 4.8, "reviews": 1734, "badge": "POPULAR", "color": "Midnight", "description": "A perfect balance of exhilarating high-fidelity audio and effortless magic.", "specs": ["Custom acoustic design", "Active noise cancellation", "Personalized Spatial Audio", "20-hour battery"], "image": "https://i.pinimg.com/736x/a6/9a/b6/a69ab65ec5da3b805ef2ace03da15a6b.jpg"
+  },
+  {
+    "id": 7, "name": "OLED evo C4 65″", "brand": "LG", "category": "Smart TVs", "price": 1699, "oldPrice": 1999, "rating": 4.9, "reviews": 1208, "badge": "CINEMA CHOICE", "color": "Dark Graphite", "description": "Bring every scene to life with perfect black, stunning color, and a cinematic OLED display.", "specs": ["65″ OLED evo 4K", "α9 AI Processor Gen7", "Dolby Vision & Atmos", "144Hz refresh rate"], "image": "https://i.pinimg.com/736x/0c/db/45/0cdb45b3ccbfade00f5361d58e4e96d4.jpg"
+  },
+  {
+    "id": 8, "name": "Frame TV 55″", "brand": "Samsung", "category": "Smart TVs", "price": 1299, "oldPrice": 1499, "rating": 4.6, "reviews": 843, "badge": "DESIGN ICON", "color": "Customizable", "description": "A TV when it is on. A work of art when it is off. Designed to blend beautifully into your home.", "specs": ["55″ QLED 4K", "Art Mode", "Matte display", "Slim Fit wall mount"], "image": "https://i.pinimg.com/736x/e2/22/fd/e222fd709632c6a6a6868f3d974e3fdc.jpg"
+  },
+  {
+    "id": 9, "name": "EOS R6 Mark II", "brand": "Canon", "category": "Cameras", "price": 2299, "oldPrice": 2499, "rating": 4.9, "reviews": 671, "badge": "CREATOR FAVORITE", "color": "Black", "description": "Capture life in breathtaking detail with incredible speed, versatility, and full-frame performance.", "specs": ["24.2MP full-frame sensor", "40 fps electronic shutter", "6K oversampled video", "In-body stabilization"], "image": "https://i.pinimg.com/1200x/06/32/a1/0632a1a4046ecb1ead5fdf9b12605be4.jpg"
+  },
+  {
+    "id": 10, "name": "Alpha 7 IV", "brand": "Sony", "category": "Cameras", "price": 2499, "oldPrice": 2699, "rating": 4.8, "reviews": 512, "badge": "PRO PICK", "color": "Black", "description": "Beyond basic. A hybrid full-frame camera for every creator ready to go beyond.", "specs": ["33MP full-frame sensor", "4K 60p video", "Real-time Eye AF", "5-axis stabilization"], "image": "https://i.pinimg.com/736x/82/da/37/82da372faf7af21463f14f3b54eda4fd.jpg"
+  },
+  {
+    "id": 11, "name": "Apple Watch Ultra 2", "brand": "Apple", "category": "Smartwatches", "price": 799, "oldPrice": 849, "rating": 4.9, "reviews": 1014, "badge": "ADVENTURE READY", "color": "Natural Titanium", "description": "The most rugged and capable Apple Watch for all your adventures, from everyday to extreme.", "specs": ["49mm titanium case", "Up to 36 hours battery", "Precision dual-frequency GPS", "100m water resistance"], "image": "https://i.pinimg.com/736x/8c/56/d6/8c56d629501fb6a22b248f78e4e15f81.jpg"
+  },
+  {
+    "id": 12, "name": "Pixel Watch 3", "brand": "Google", "category": "Smartwatches", "price": 399, "oldPrice": 449, "rating": 4.7, "reviews": 602, "badge": "SMARTER DAYS", "color": "Matte Black", "description": "The first smartwatch with loss of pulse detection. A Fitbit fitness experience, made by Google.", "specs": ["45mm Actua display", "Advanced running tools", "24-hour battery", "Google AI at a glance"], "image": "https://i.pinimg.com/236x/7b/d4/16/7bd4160ced61cb7dec5df0faf72809ba.jpg"
+  },
+  {
+    "id": 13, "name": "MagSafe Travel Kit", "brand": "Anker", "category": "Accessories", "price": 89, "oldPrice": 119, "rating": 4.6, "reviews": 448, "badge": "TRAVEL ESSENTIAL", "color": "Space Gray", "description": "One pocket-sized charger, a cleaner desk, and a more effortless daily routine.", "specs": ["3-in-1 wireless charging", "15W fast charging", "Foldable travel design", "USB-C power adapter included"], "image": "https://i.pinimg.com/736x/fa/23/6f/fa236f4fa0361c5babf7ba75d862e27a.jpg"
+  },
+  {
+    "id": 14, "name": "Studio Display", "brand": "Apple", "category": "Accessories", "price": 1599, "oldPrice": 1699, "rating": 4.8, "reviews": 329, "badge": "CREATIVE SPACE", "color": "Silver", "description": "A 5K Retina display that gives your ideas the room, color, and clarity they deserve.", "specs": ["27″ 5K Retina display", "600 nits brightness", "12MP Center Stage camera", "Six-speaker Spatial Audio"], "image": "https://i.pinimg.com/1200x/63/fc/7f/63fc7f202221f570c87bb10a3b3e6835.jpg"
+  },
+  {
+    "id": 15, "name": "Pixel 9 Pro", "brand": "Google", "category": "Mobiles", "price": 999, "oldPrice": 1099, "rating": 4.8, "reviews": 1087, "badge": "AI, MEET CAMERA", "color": "Obsidian", "description": "Google AI, a pro-level camera, and a brilliant display come together in a beautifully refined phone.", "specs": ["6.3″ Super Actua display", "Google Tensor G4", "50MP triple rear camera", "Seven years of updates"], "image": "https://i.pinimg.com/736x/22/c4/32/22c432565cfab0d6297abc95b3ef1664.jpg"
+  },
+  {
+    "id": 16, "name": "OnePlus 13", "brand": "OnePlus", "category": "Mobiles", "price": 899, "oldPrice": 999, "rating": 4.7, "reviews": 756, "badge": "SPEED, REFINED", "color": "Midnight Ocean", "description": "Flagship speed, a Hasselblad camera system, and an immersive display built for all-day discovery.", "specs": ["6.82″ QHD+ 120Hz display", "Snapdragon 8 Elite", "Hasselblad triple camera", "6000mAh battery"], "image": "https://i.pinimg.com/736x/ff/98/ec/ff98eca32e8436c9177d239879436550.jpg"
+  },
+  {
+    "id": 17, "name": "Zenbook 14 OLED", "brand": "ASUS", "category": "Laptops", "price": 1099, "oldPrice": 1299, "rating": 4.7, "reviews": 531, "badge": "LIGHT ON ITS FEET", "color": "Ponder Blue", "description": "A featherlight OLED laptop with thoughtful details that make every workday flow.", "specs": ["14″ 3K OLED 120Hz", "Intel Core Ultra 7", "16GB memory", "75Wh all-day battery"], "image": "https://i.pinimg.com/736x/bc/5d/d3/bc5dd32c4b0baf80897f37de983e128c.jpg"
+  },
+  {
+    "id": 18, "name": "ThinkPad X1 Carbon", "brand": "Lenovo", "category": "Laptops", "price": 1649, "oldPrice": 1849, "rating": 4.8, "reviews": 694, "badge": "BUILT TO GO", "color": "Black", "description": "Remarkably light. Seriously capable. A trusted everyday partner, thoughtfully reimagined.", "specs": ["14″ 2.8K OLED", "Intel Core Ultra 7", "32GB LPDDR5x", "MIL-STD 810H tested"], "image": "https://i.pinimg.com/1200x/ab/b5/ea/abb5eabb294e2e6e82daf32631679407.jpg"
+  },
+  {
+    "id": 19, "name": "QuietComfort Ultra", "brand": "Bose", "category": "Headphones", "price": 429, "oldPrice": 479, "rating": 4.8, "reviews": 1562, "badge": "PURE QUIET", "color": "Black", "description": "World-class noise cancellation meets immersive spatial audio for a richer listening moment.", "specs": ["Bose Immersive Audio", "CustomTune sound calibration", "Up to 24 hours battery", "USB-C audio"], "image": "https://i.pinimg.com/736x/75/86/c4/7586c4a158f09bb0b8ee33d981949a7d.jpg"
+  },
+  {
+    "id": 20, "name": "Momentum 4 Wireless", "brand": "Sennheiser", "category": "Headphones", "price": 379, "oldPrice": 429, "rating": 4.7, "reviews": 816, "badge": "AUDIOPHILE PICK", "color": "Graphite", "description": "Exceptional sound, adaptive noise cancellation, and a remarkable 60-hour battery.", "specs": ["42mm audiophile drivers", "Adaptive noise cancellation", "60-hour battery", "Customizable sound modes"], "image": "https://i.pinimg.com/736x/ab/7d/5c/ab7d5c3ff6ade2911d2c018da0183ea5.jpg"
+  },
+  {
+    "id": 21, "name": "BRAVIA 8 OLED 65″", "brand": "Sony", "category": "Smart TVs", "price": 1999, "oldPrice": 2299, "rating": 4.8, "reviews": 738, "badge": "DIRECTOR’S CUT", "color": "Black", "description": "A cinematic OLED experience with the picture and sound of a true home theater.", "specs": ["65″ OLED 4K HDR", "XR Processor", "Acoustic Surface Audio+", "Google TV built in"], "image": "https://i.pinimg.com/736x/08/8f/45/088f459a8289f2f4655b552fdf25ccde.jpg"
+  },
+  {
+    "id": 22, "name": "QM8 Mini-LED 65″", "brand": "TCL", "category": "Smart TVs", "price": 1199, "oldPrice": 1399, "rating": 4.6, "reviews": 402, "badge": "BRIGHT IDEA", "color": "Graphite", "description": "Big-screen brilliance with vivid Mini-LED contrast, immersive sound, and smooth gaming.", "specs": ["65″ QD-Mini LED 4K", "144Hz native refresh rate", "Dolby Vision IQ", "Google TV"], "image": "https://i.pinimg.com/736x/fe/ba/bd/febabd4a1c79a4d60d1c7e8f37ffcdb8.jpg"
+  },
+  {
+    "id": 23, "name": "Z8 II", "brand": "Nikon", "category": "Cameras", "price": 3999, "oldPrice": 4299, "rating": 4.9, "reviews": 294, "badge": "BUILT FOR THE MOMENT", "color": "Black", "description": "The power of a flagship in a nimble body. Ready for the scenes you only get once.", "specs": ["45.7MP stacked sensor", "8K 60p internal video", "120 fps stills", "Advanced subject detection"], "image": "https://i.pinimg.com/1200x/4c/67/98/4c6798a2daae8d3ba12591f94ca2a657.jpg"
+  },
+  {
+    "id": 24, "name": "X-T5", "brand": "Fujifilm", "category": "Cameras", "price": 1699, "oldPrice": 1899, "rating": 4.8, "reviews": 455, "badge": "COLOR YOUR STORY", "color": "Black", "description": "A classic feel, modern power, and the unmistakable color science creators love.", "specs": ["40.2MP APS-C sensor", "In-body image stabilization", "6.2K video", "Classic tactile dials"], "image": "https://i.pinimg.com/1200x/1b/2b/88/1b2b88b3aab4b435b0b6c63207ae50b5.jpg"
+  },
+  {
+    "id": 25, "name": "Galaxy Watch7", "brand": "Samsung", "category": "Smartwatches", "price": 329, "oldPrice": 379, "rating": 4.6, "reviews": 618, "badge": "YOUR WELLNESS, IN FOCUS", "color": "Green", "description": "A smarter everyday companion with personalized wellness insights and powerful Galaxy AI.", "specs": ["1.5″ Super AMOLED display", "Advanced sleep coaching", "Dual-frequency GPS", "5ATM water resistance"], "image": "https://i.pinimg.com/736x/74/69/72/746972223099752c6aaae5816df540f7.jpg"
+  },
+  {
+    "id": 26, "name": "fēnix 8 AMOLED", "brand": "Garmin", "category": "Smartwatches", "price": 999, "oldPrice": 1099, "rating": 4.8, "reviews": 387, "badge": "BUILT FOR OUT THERE", "color": "Slate Gray", "description": "A premium multisport watch with advanced training, navigation, and a bright AMOLED display.", "specs": ["1.4″ AMOLED touchscreen", "Built-in speaker and microphone", "Multi-band GPS", "Up to 16 days battery"], "image": "https://i.pinimg.com/736x/89/c1/3e/89c13ecf647d3267f4f21d327d3cdbeb.jpg"
+  },
+  {
+    "id": 27, "name": "MX Master 3S", "brand": "Logitech", "category": "Accessories", "price": 99, "oldPrice": 119, "rating": 4.8, "reviews": 1162, "badge": "DESK, UPGRADED", "color": "Graphite", "description": "A precise, quiet, and comfortable wireless mouse made for long days and many screens.", "specs": ["8K DPI tracking", "Quiet clicks", "Fast MagSpeed scroll wheel", "Up to 70 days battery"], "image": "https://i.pinimg.com/736x/29/99/fd/2999fd18d2544b611f0877cddd70f71d.jpg"
+  },
+  {
+    "id": 28, "name": "BoostCharge Pro", "brand": "Belkin", "category": "Accessories", "price": 129, "oldPrice": 149, "rating": 4.6, "reviews": 304, "badge": "POWER, SIMPLIFIED", "color": "Sand", "description": "A beautifully compact 3-in-1 charging stand that keeps your everyday essentials ready.", "specs": ["Qi2 15W wireless charging", "Charge three devices", "Adjustable viewing angle", "Foldable travel design"], "image": "https://i.pinimg.com/1200x/f4/4c/87/f44c87994ee0b7de05b8ff08c6cfe4cd.jpg"
+  }
+]
